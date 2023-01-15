@@ -1,6 +1,6 @@
 ### Hello, visitor.
 
-#### I am Burak Can. I'm PHP developer.
+#### I'm Burak Can. I'm PHP developer.
 
 ___
 
